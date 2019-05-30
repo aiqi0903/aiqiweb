@@ -1,2 +1,2 @@
 # aiqiweb
-git测试
+git测试 --aiqi
